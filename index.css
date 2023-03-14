@@ -1,0 +1,28 @@
+*{
+    box-sizing: content-box;
+    max-width: 100%;
+}
+.fixed-bg-1{
+    background: url(img/Perkinabout.png) no-repeat center center/cover;
+    background-attachment: fixed;
+    height: 300px; 
+    width: 100%;
+}
+.form{
+    background: url(img/formbg.jpg) no-repeat center center/cover;
+    height: 500px;
+}
+.all{
+    position: relative;
+}
+.main{
+    top: 80px;
+    left: 40%;
+    position: absolute;
+}
+.head{
+    background-color: #007196;
+}
+.bold{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
